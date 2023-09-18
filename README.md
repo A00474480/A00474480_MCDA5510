@@ -4,8 +4,8 @@ Hi, my name is Sivleen Kaur. I am from Punjab, India. I have completed my BTech 
 
 Including me(**Sivleen**), our team has three members:
 
-**Wenqing(Vincent) Zhuang**: He is from China. He is fond of coding, computer games and TV shows. He chose MCDA because he wanted to learn something about data science and work in Canada in future.
+**Wenqing(Vincent) Zhuang**: He is from China. He is fond of coding, computer games and TV shows. He chose MCDA because he wants to learn something about data science and work in Canada in future.
 
-**Di(Julius) Sun**: He is also from China. Coding is one of his core interests; he also loves TV shows, specifically Sitcoms.
+**Di(Julius) Sun**: He is also from China. Coding is one of his core interests; he also loves TV shows, specifically Sitcoms. He chose MCDA because he wants to work abroad in industry and get a degree in the Computer Science field.
 
 We bounded over our interest in watching TV shows(Sitcoms mainly). We sat together in the first class, and while talking, we realised that we all loved to watch comedies such as "The Big Bang Theories" and "Friends". We mainly talked about Friends. On the technical side, we all are fond of coding, and while conversing, I learned that Wenqing(Vincent) and I use the same programming language that is C++.
